@@ -34,8 +34,11 @@ EX3 explicação:
 EX4 explicação:
 
 O código Python permite cadastrar usuários com campos personalizados e imprimir os usuários com várias opções de filtro. Ele usa uma lista chamada banco_usuarios para armazenar os dados dos usuários. 
+
 A função cadastrar_usuario() coleta informações dos usuários e permite adicionar campos personalizados. 
+
 A função imprimir_usuarios() exibe os usuários com base em filtros selecionados, como nome e campos específicos. 
+
 A função main() controla o fluxo do programa, permitindo ao usuário cadastrar novos usuários, imprimir usuários ou encerrar o programa. É uma aplicação simples de gerenciamento de dados de usuários.
 
 
