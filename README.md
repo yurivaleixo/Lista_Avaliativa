@@ -6,7 +6,6 @@ criar_tabuleiro_quatro_por_quatro(): Essa função inicia um tabuleiro vazio, re
 
 mostrar_tabuleiro_4x4(tabuleiro): O tabuleiro é exibido com linhas e colunas separadas por barras verticais e linhas horizontais.
 
-verificar_vitoria_quatro_por_quatro(tabuleiro, jogador, linha, coluna): Esta função verifica se o jogador atual venceu após a última jogada. Isso é feito ao verificar quatro condições: se todas as casas na linha, coluna, diagonal principal ou diagonal secundária da última jogada pertencem ao mesmo jogador. Se uma dessas condições for verdadeira, a função retorna True, indicando a vitória do jogador.
 ---------------
 EX2 explicação: 
 
