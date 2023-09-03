@@ -13,6 +13,8 @@ criar_tabuleiro_nxn(tamanho): Cria um tabuleiro vazio com tamanho personalizado,
 
 mostrar_tabuleiro(tab): Exibe o tabuleiro de forma visualmente agradável, independentemente do tamanho, com barras verticais e linhas horizontais.
 
+verificar_vitoria(tab, jogador, linha, coluna): Verifica se o jogador atual venceu, checando linha, coluna, diagonal principal e diagonal secundária.
+
 ---------------
 EX3 explicação:
 
